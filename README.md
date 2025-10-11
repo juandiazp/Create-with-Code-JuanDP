@@ -2,29 +2,18 @@
 
 Proyecto del curso **Create with Code** desarrollado en Unity 6.2.
 
-Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax).
+Tutoriales, cursos y rutas guiadas gratuitos para dominar las habilidades de desarrollo 3D en tiempo real para crear videojuegos, realidad virtual, realidad aumentada y más. [Unity Learn](https://learn.unity.com/).
 
-Demo: [http://website-templates.github.io/portfolio_one-page-template](http://website-templates.github.io/portfolio_one-page-template/)
+Curso: [Create with Code](https://learn.unity.com/course/create-with-code)
 
-![Mockup demo](Images/Unity.webp)
-Product mockup created with [http://magicmockups.com/](http://magicmockups.com/)
+![UNITY](Images/Unity.webp)
+Descarga la plataforma de desarrollo Unity [Unity Hub](https://unity.com/es/download)
 
 ## Contents
 
-- [Folder and file structure](#folder-and-file-structure)
-- [Requirements:](#requirements)
-  - [Editorconfig](#editorconfig)
-- [How to start](#how-to-start)
-- [Site configuration](#site-configuration)
-- [Tasks](#tasks)
-  - [Cleanup](#cleanup)
-  - [Dev](#dev)
-  - [Build](#build)
-  - [Rebuild](#rebuild)
-  - [Server](#server)
-  - [Sprite](#sprite)
-- [Live reload](#live-reload)
-- [License](#license)
+- [Estructura de carpetas y archivos](#folder-and-file-structure)
+- [Lección 1:](#requirements)
+- [Autor](#autor)
 
 ## Folder and file structure
 
@@ -93,101 +82,16 @@ Product mockup created with [http://magicmockups.com/](http://magicmockups.com/)
 
 ```
 
-## Requirements
+## Lección 1
 
 - [Node.js](http://nodejs.org/)
 - Build sytem: [Grunt](http://gruntjs.com/) or [Gulp](http://gulpjs.com/)
 - Optionally:
   - [Editorconfig](http://editorconfig.org/)
 
-#### Editorconfig
+## 🧾 Autor
 
-This project has an .editorconfig file at the root. It describes indent style, trailing whitespaces etc. See more details [here](http://editorconfig.org/)
-
-## How to start
-
-If you haven't used [Gulp](http://gulpjs.com/) before, be sure to check out the [Getting Started](<[https://github.com/gulpjs/gulp/blob/master/docs/README.md](https://gulpjs.com/docs/en/getting-started/quick-start)>) guide, also check these [recips](https://github.com/gulpjs/gulp/tree/master/docs/recipes#recipes)
-
-Before start you need to have installed _npm_ , as well as _gulp_ globally.
-
-**A few simple steps to start:**
-
-- Install dependencies from `package.json` by running: `npm install`.
-- Run tasks from the list below and start devevelopment!
-- Edit general settings in `dev/data/config.json` See [Site configuration](#site-configuration) section
-
-## Site configuration
-
-This boilerplate uses Pug templates with external data configs.
-Main settings can be found in `dev/data/config.json` file. And they're available for usage in templates with `config.key-name`
-
-## Tasks
-
-Here comes groups ofgulp tasks with some explanations
-
-#### Cleanup
-
-Remove placeholders from work directories.
-Gulp: `gulp cleanup`
-
-- Remove gitkeep files
-
-#### Dev
-
-Dev task with static server.
-Gulp: `gulp dev`
-
-- Bundle javascripts
-- Compile Sass stylesheets
-- Add vendor prefixes in css
-- Combine media queries in css files
-- Compile Pug templates
-- Sync helpers and other assets
-- Sync fonts
-- Sync images
-- Run BrowserSync static server with live reload using
-- Watch for changes and run dev task
-
-#### Build
-
-Build task.
-Gulp: `gulp build`
-
-- Minify images
-- Minify javascript files
-- Minify stylesheets
-- Minify html
-- Run BrowserSync static server
-
-#### Rebuild
-
-Regenerate and build project by running all tasks.
-Gulp: `gulp rebuild`
-
-- Bundle javascripts
-- Compile Sass stylesheets
-- Add vendor prefixes in css
-- Combine media queries in css files
-- Compile Pug templates
-- Sync helpers and other assets
-- Sync fonts
-- Sync images
-- Minify images
-- Minify javascript files
-- Minify stylesheets
-- Minify html
-
-#### Server
-
-Run server without watching for changes.
-Gulp: `gulp server`
-
-- Run BrowserSync static server
-
-## Live reload
-
-This project uses BrowserSync as static server with enabled and configured live reload option.
-
-## License
-
-[MIT](https://github.com/website-templates/portfolio_one-page-template/blob/master/LICENSE.md)
+**Juan Díaz Pradp**
+GIDS5101  
+Estudiante de Ingeniería en la UTNG  
+Curso: Creación de Videojuegos con Unity
