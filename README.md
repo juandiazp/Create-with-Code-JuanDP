@@ -12,7 +12,7 @@ Descarga la plataforma de desarrollo Unity [Unity Hub](https://unity.com/es/down
 ## Contents
 
 - [Estructura de carpetas y archivos](#folder-and-file-structure)
-- [Lección 1:](#leccion-1)
+- [Lección 1:](#lession-1)
 - [Requisitos:](#requisitos)
 - [Autor](#autor)
 
@@ -33,12 +33,7 @@ Create-with-Code-JuanDP/
 
 ```
 
-## Lección 1
-
-- [Node.js](http://nodejs.org/)
-- Build sytem: [Grunt](http://gruntjs.com/) or [Gulp](http://gulpjs.com/)
-- Optionally:
-  - [Editorconfig](http://editorconfig.org/)
+## Lession 1
 
 ### 🕹️ Lección 1: Control del Jugador
 
