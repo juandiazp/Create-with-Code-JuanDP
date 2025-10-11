@@ -20,14 +20,10 @@ Descarga la plataforma de desarrollo Unity [Unity Hub](https://unity.com/es/down
 
 ```
 Create-with-Code-JuanDP/
-├── Unidad1/
-│ ├── Leccion1/
-│ ├── Leccion2/
-│ └── ...
-├── Documentacion/
-│ └── PDFs de evidencia
-├── GameBuild/
-│ └── Exportaciones WebGL o ejecutables
+├── Leccion1/
+│ └── Prototype 1/
+├── Images/
+│ └── Unity
 ├── README.md
 └── .gitignore
 
@@ -37,9 +33,17 @@ Create-with-Code-JuanDP/
 
 ### 🕹️ Lección 1: Control del Jugador
 
-- [![Descargar Proyecto](https://img.icons8.com/fluency/32/download.png) Proyecto Exportado](https://drive.google.com/your-exported-project-link-leccion1)
+- [![Descargar Proyecto](https://drive.google.com/file/d/1sPq7B452wNqm4HtR0vH0oABHqv2o825c/view?usp=sharing) Proyecto Exportado](https://drive.google.com/your-exported-project-link-leccion1)
 - [![Ver PDF](https://img.icons8.com/color/32/pdf.png) Evidencia PDF](https://drive.google.com/your-pdf-link-leccion1)
-- [![Ver Video](https://img.icons8.com/fluency/32/youtube-play.png) Video de Funcionamiento](https://drive.google.com/your-video-link-leccion1)
+- [![Ver Video](https://img.icons8.com/fluency/32/youtube-play.png) Video de Funcionamiento](https://drive.google.com/file/d/1GBiFGgiP-EeYtEnw7hrqZMv47aqcsnBE/view?usp=sharing)
+
+---
+
+### 🕹️ Lección 1: Control del Jugador
+
+- Proyecto Exportado [![Descargar](https://img.icons8.com/fluency/32/download.png)](https://drive.google.com/file/d/1sPq7B452wNqm4HtR0vH0oABHqv2o825c/view?usp=sharing)
+- Evidencia PDF [![PDF](https://img.icons8.com/color/32/pdf.png)](https://drive.google.com/file/d/1-r-r046ItJtI87Of7KF75x5u6U9TxK_8/view?usp=sharing)
+- Video de Funcionamiento [![Ver Video](https://img.icons8.com/fluency/32/youtube-play.png)](https://drive.google.com/file/d/1GBiFGgiP-EeYtEnw7hrqZMv47aqcsnBE/view?usp=sharing)
 
 ---
 
@@ -51,7 +55,7 @@ Create-with-Code-JuanDP/
 
 ## Autor
 
-**Juan Díaz Pradp**
+**Juan Díaz Prado**
 GIDS5101  
 Estudiante de Ingeniería en la UTNG  
 Curso: Creación de Videojuegos con Unity
