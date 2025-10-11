@@ -1,0 +1,49 @@
+# Unity - Archivos y carpetas a ignorar
+
+# Archivos de compilación y temporales
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Archivos de cache del paquete
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Archivos de Visual Studio/IDE
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos generados por VS Code
+.vscode/
+*.code-workspace
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Otros
+*.apk
+*.aab
+*.unitypackage
+*.log
+
+# Unity Collaborate
+.collab/
+
+# Builds WebGL o similares (si los exportas)
+Build/
+Builds/
