@@ -12,73 +12,24 @@ Descarga la plataforma de desarrollo Unity [Unity Hub](https://unity.com/es/down
 ## Contents
 
 - [Estructura de carpetas y archivos](#folder-and-file-structure)
-- [Lección 1:](#requirements)
+- [Lección 1:](#leccion-1)
+- [Requisitos:](#requisitos)
 - [Autor](#autor)
 
 ## Folder and file structure
 
 ```
-./
-├── .editorconfig
-├── gulpfile.js
-├── package.json
+Create-with-Code-JuanDP/
+├── Unidad1/
+│ ├── Leccion1/
+│ ├── Leccion2/
+│ └── ...
+├── Documentacion/
+│ └── PDFs de evidencia
+├── GameBuild/
+│ └── Exportaciones WebGL o ejecutables
 ├── README.md
-|
-├── gulp_tasks/                                * gulp tasks
-|   ├── config/                                * gulp tasks config
-│   |   ├── paths.js
-│   |   └── aliases.js
-│   |
-|   └── task.js
-|
-├── screenshots/                               * responsive test screenshots
-|
-├── dev/                                       * site source
-│   ├── images/                                * image sources
-|   │
-│   ├── pug/                                   * templates
-|   |   ├── blocks/                            * blocks library
-|   │   |   └── block.pug
-|   │   ├── helpers/                           * helper mixins
-|   │   ├── vendor/                            * third-party code
-|   │   ├── layouts/                           * page layouts
-|   │   └── pages/                             * main pages templates
-|   │
-│   ├── js/                                    * source js
-|   |   ├── vendor/                            * vendor scripts library
-|   |   ├── lib/                               * site scripts library
-|   │   ├── head.js                            * head scripts
-|   │   └── body.js                            * body scripts
-|   │
-|   ├── sass/                                  * sass preprocessor styles
-|   |   ├── blocks/                            * blocks library
-|   │   |   └── block.sass
-|   │   ├── helpers/                           * mixins and vars
-|   │   ├── vendor/                            * third-party code
-|   │   ├── custom.sass
-|   │   ├── noscript.sass
-|   │   └── screen.sass
-|   │
-│   ├── helpers/                               * helper files
-|   |   ├── favicon.ico
-|   |   └── .htaccess
-|   │
-│   ├── fonts/                                 * font sources
-|   │
-│   └── data/                                  * configs and data for templates
-│
-└── build/                                     * built source
-    ├── index.html
-    ├── page.html
-    |
-    └── static/                                * static assets
-        ├── css/                               * minified styles
-        |
-        ├── images/                            * minified images
-        │
-        ├── js/                                * minified assembled js
-        |
-        └── fonts/                             * @font-face-ready webfonts
+└── .gitignore
 
 ```
 
@@ -89,7 +40,21 @@ Descarga la plataforma de desarrollo Unity [Unity Hub](https://unity.com/es/down
 - Optionally:
   - [Editorconfig](http://editorconfig.org/)
 
-## 🧾 Autor
+### 🕹️ Lección 1: Control del Jugador
+
+- [![Descargar Proyecto](https://img.icons8.com/fluency/32/download.png) Proyecto Exportado](https://drive.google.com/your-exported-project-link-leccion1)
+- [![Ver PDF](https://img.icons8.com/color/32/pdf.png) Evidencia PDF](https://drive.google.com/your-pdf-link-leccion1)
+- [![Ver Video](https://img.icons8.com/fluency/32/youtube-play.png) Video de Funcionamiento](https://drive.google.com/your-video-link-leccion1)
+
+---
+
+## Requisitos
+
+- Unity 6.2 o superior
+- Git / GitHub
+- Acceso a Google Drive
+
+## Autor
 
 **Juan Díaz Pradp**
 GIDS5101  
