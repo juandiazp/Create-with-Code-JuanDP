@@ -29,9 +29,10 @@ Create-with-Code-JuanDP/
 
 ```
 
+
 ## Lession 1
 
-### 🕹️ Lección 1: Control del Jugador
+### Lección 1: Control del Jugador
 
 - Proyecto Exportado [![Descargar](https://img.icons8.com/fluency/32/download.png)](https://drive.google.com/file/d/1sPq7B452wNqm4HtR0vH0oABHqv2o825c/view?usp=sharing)
 - Evidencia PDF [![PDF](https://img.icons8.com/color/32/pdf.png)](https://drive.google.com/file/d/1-r-r046ItJtI87Of7KF75x5u6U9TxK_8/view?usp=sharing)
@@ -39,9 +40,7 @@ Create-with-Code-JuanDP/
 
 ---
 
-- Proyecto Exportado <a href="https://drive.google.com/your-exported-project-link-leccion1" target="_blank"><img src="https://img.icons8.com/fluency/32/download.png" alt="Descargar Proyecto"/></a>
-- Evidencia PDF <a href="https://drive.google.com/your-pdf-link-leccion1" target="_blank"><img src="https://img.icons8.com/color/32/pdf.png" alt="PDF"/></a>
-- Video de Funcionamiento <a href="https://drive.google.com/your-video-link-leccion1" target="_blank"><img src="https://img.icons8.com/fluency/32/youtube-play.png" alt="Video"/></a>
+
 
 ## Requisitos
 
