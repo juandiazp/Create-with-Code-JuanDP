@@ -29,7 +29,6 @@ Create-with-Code-JuanDP/
 
 ```
 
-
 ## Lession 1
 
 ### Lección 1: Control del Jugador
@@ -40,7 +39,15 @@ Create-with-Code-JuanDP/
 
 ---
 
+## Lession 2
 
+### Lección 2: Control del Jugador
+
+- Proyecto Exportado [![Descargar](https://img.icons8.com/fluency/32/download.png)](https://drive.google.com/file/d/1jEwZkDthopHtVMSzREPTgnJOtuf0UfTN/view?usp=sharing)
+- Evidencia PDF [![PDF](https://img.icons8.com/color/32/pdf.png)](https://drive.google.com/file/d/1d68cofWuq2ep_0HGYraBXVb0FS8-6_kV/view?usp=sharing)
+- Video de Funcionamiento [![Ver Video](https://img.icons8.com/fluency/32/youtube-play.png)](https://drive.google.com/file/d/14bFs5KDZmTgjqYtjwOMZADBI8qUnseXI/view?usp=sharing)
+
+---
 
 ## Requisitos
 
