@@ -41,7 +41,7 @@ Create-with-Code-JuanDP/
 
 ## Lession 2
 
-### Lección 2: Control del Jugador
+### Lección 2: Jugabilidad básica
 
 - Proyecto Exportado [![Descargar](https://img.icons8.com/fluency/32/download.png)](https://drive.google.com/file/d/1jEwZkDthopHtVMSzREPTgnJOtuf0UfTN/view?usp=sharing)
 - Evidencia PDF [![PDF](https://img.icons8.com/color/32/pdf.png)](https://drive.google.com/file/d/1d68cofWuq2ep_0HGYraBXVb0FS8-6_kV/view?usp=sharing)
