@@ -55,9 +55,9 @@ Create-with-Code-JuanDP/
 
 ---
 
-## Lession 2
+## Lession 3
 
-### Lección 2: Jugabilidad básica
+### Lección 3: Sonido y efectos
 
 - Proyecto Exportado [![Descargar](https://img.icons8.com/fluency/32/download.png)](https://drive.google.com/file/d/1-uozsZYYz80_n-IwZ_weFrk_BU8_Qha9/view?usp=sharing)
 - Evidencia PDF [![PDF](https://img.icons8.com/color/32/pdf.png)](https://drive.google.com/file/d/1kAXc6MNwOB2Mfzlc3afrQentnSqIx1Nk/view?usp=sharing)
