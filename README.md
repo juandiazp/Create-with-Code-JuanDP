@@ -13,6 +13,8 @@ Descarga la plataforma de desarrollo Unity [Unity Hub](https://unity.com/es/down
 
 - [Estructura de carpetas y archivos](#folder-and-file-structure)
 - [Lección 1:](#lession-1)
+- [Lección 2:](#lession-2)
+- [Lección 3:](#lession-3)
 - [Requisitos:](#requisitos)
 - [Autor](#autor)
 
@@ -22,6 +24,10 @@ Descarga la plataforma de desarrollo Unity [Unity Hub](https://unity.com/es/down
 Create-with-Code-JuanDP/
 ├── Leccion1/
 │ └── Prototype 1/
+├── Leccion2/
+│ └── Prototype 2/
+├── Leccion3/
+│ └── Prototype 3/
 ├── Images/
 │ └── Unity
 ├── README.md
@@ -46,6 +52,16 @@ Create-with-Code-JuanDP/
 - Proyecto Exportado [![Descargar](https://img.icons8.com/fluency/32/download.png)](https://drive.google.com/file/d/1jEwZkDthopHtVMSzREPTgnJOtuf0UfTN/view?usp=sharing)
 - Evidencia PDF [![PDF](https://img.icons8.com/color/32/pdf.png)](https://drive.google.com/file/d/1d68cofWuq2ep_0HGYraBXVb0FS8-6_kV/view?usp=sharing)
 - Video de Funcionamiento [![Ver Video](https://img.icons8.com/fluency/32/youtube-play.png)](https://drive.google.com/file/d/14bFs5KDZmTgjqYtjwOMZADBI8qUnseXI/view?usp=sharing)
+
+---
+
+## Lession 2
+
+### Lección 2: Jugabilidad básica
+
+- Proyecto Exportado [![Descargar](https://img.icons8.com/fluency/32/download.png)](https://drive.google.com/file/d/1-uozsZYYz80_n-IwZ_weFrk_BU8_Qha9/view?usp=sharing)
+- Evidencia PDF [![PDF](https://img.icons8.com/color/32/pdf.png)](https://drive.google.com/file/d/1kAXc6MNwOB2Mfzlc3afrQentnSqIx1Nk/view?usp=sharing)
+- Video de Funcionamiento [![Ver Video](https://img.icons8.com/fluency/32/youtube-play.png)](https://drive.google.com/file/d/1o3gh33you_TFw67pv4QtjTI7JX8H2e14/view?usp=sharing)
 
 ---
 
