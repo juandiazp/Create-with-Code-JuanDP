@@ -72,9 +72,9 @@ Create-with-Code-JuanDP/
 
 ### Lección 5: Interfaz de usuario
 
-- Proyecto Exportado [![Descargar](https://drive.google.com/file/d/1Vs0lPNpdrFvHgsS7dtf4OE1j4jNU_jbW/view?usp=sharing)
-- Evidencia PDF [![PDF](https://drive.google.com/file/d/1ZtZVTMHGrvOBeqpKJSETx2XtUAeGMqZY/view?usp=sharing)
-- Video de Funcionamiento [![Ver Video](https://drive.google.com/file/d/1bQyfnKNt7rAx0Ccj9svZPdIsCEaNpR6u/view?usp=sharing)
+- Proyecto Exportado [![Descargar](https://img.icons8.com/fluency/32/download.png)](https://drive.google.com/file/d/1Vs0lPNpdrFvHgsS7dtf4OE1j4jNU_jbW/view?usp=sharing)
+- Evidencia PDF [![PDF](https://img.icons8.com/color/32/pdf.png)](https://drive.google.com/file/d/1ZtZVTMHGrvOBeqpKJSETx2XtUAeGMqZY/view?usp=sharing)
+- Video de Funcionamiento [![Ver Video](https://img.icons8.com/fluency/32/youtube-play.png)](https://drive.google.com/file/d/1bQyfnKNt7rAx0Ccj9svZPdIsCEaNpR6u/view?usp=sharing)
 
 ---
 
